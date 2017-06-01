@@ -8,6 +8,8 @@ main () {
   fix_bug_002;
 
   hotfix!!;
+
+  this is bug;
 }
 
 new_function() {
