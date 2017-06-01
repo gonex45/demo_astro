@@ -15,6 +15,7 @@ main () {
   add cat;
 
    fix a;
+   fix b;
 }
 
 new_function() {
