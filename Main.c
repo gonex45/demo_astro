@@ -13,6 +13,8 @@ main () {
   this is bug;
 
   add cat;
+
+   fix a;
 }
 
 new_function() {
