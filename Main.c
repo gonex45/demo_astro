@@ -16,6 +16,7 @@ main () {
 
    fix a;
    fix b;
+   fix c;
 }
 
 new_function() {
