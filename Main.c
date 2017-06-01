@@ -10,6 +10,8 @@ main () {
   hotfix!!;
 
   this is bug;
+
+  log(e);
 }
 
 new_function() {
