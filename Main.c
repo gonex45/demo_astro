@@ -6,5 +6,13 @@ main () {
 
 new_function() {
   xxxxx;
-  
+
+}
+
+
+
+
+log_function() {
+
+
 }
