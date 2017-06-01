@@ -7,6 +7,12 @@ main () {
 
   add code in dev_shop();
   fix_bug_002;
+
+  hotfix!!;
+
+  this is bug;
+
+  add cat;
 }
 
 new_function() {
